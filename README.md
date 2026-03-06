@@ -1,14 +1,17 @@
 # An Idiotic Savant.
 
 Independent thinker.  
-I abhor boring A → B programming — I use code to build ideas.
+Boring A → B programming is abhorrent — code exists to give ideas a form.
 
-Languages: **BASIC / C++ / Python / Java / C / C# / JavaScript / SQL**
+Languages: **BASIC / C++ / Python / Java / C / C# / JavaScript / SQL / Swift**
 
-I’ve been learning programming for nearly **10 years**, starting from the beautiful mess of self-teaching **BASIC in 2016**.  
-Weird start, I know.
+Nearly **10 years** of programming, beginning with the chaos of self-taught **BASIC in 2016**.  
+Unusual start. Appropriate, probably.
 
-I care about software with intention - something that means something.
+Software should carry intention — not merely work, but mean something.
 
-Sometimes frontend, sometimes systems, sometimes UX, sometimes pure problem-solving.  
-Always trying to make things feel more thoughtful than they have to be.
+Frontend, systems, UX, problem-solving — whatever the idea demands.  
+The goal is usually the same: build something more thoughtful than necessary.
+
+Outside of code: music, design, games, hardware, destruction —  
+and things with character.
