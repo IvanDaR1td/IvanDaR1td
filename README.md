@@ -1,6 +1,8 @@
 
 Independent thinker.  
+
 Too methodical to be a maniac, too unhinged to be a wizard.
+
 Boring A → B programming is abhorrent — code exists to give ideas a form.
 
 Languages: **BASIC / C++ / Python / Java / C / C# / JavaScript / SQL / Swift**
